@@ -4,10 +4,10 @@
 - 📫 Contate-me pelo instagram : @julliequadros
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jcquadros">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jcquadros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcquadros&layout=compact&langs_count=7&theme=dark"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jcquadros&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcquadros&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
 
 <div align="left" style-"display: incline_block"><br>
