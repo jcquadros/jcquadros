@@ -2,7 +2,6 @@
 
 - 🌱 Estudante de Engenharia da Computação
 - 📫 Contate-me pelo instagram : @julliequadros
-- 😄 Pronouns: ela/dela
 
 <div align="left">
   <a href="https://github.com/jcquadros">
