@@ -7,13 +7,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="20" width="20" /> 
     C++, e 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20" /> 
-    Java, onde aprendi a lógica por trás de algoritmos complexos. Com o tempo, tenho explorado o mundo da web, adquirindo habilidades em 
+    Java. Com o tempo, tenho explorado o mundo da web, adquirindo habilidades em 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20" />
     HTML, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" width="20" /> 
     CSS e 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" /> 
-    JavaScript, e me aventurando em frameworks como 
+    JavaScript, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" width="20" /> 
     Vue.js, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20" width="20" />
