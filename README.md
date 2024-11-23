@@ -17,7 +17,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="20" width="20" /> 
     Vue.js, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20" width="20" />
-    Django e 
+    Django, 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="20" width="20"/>
+    Node.js e 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="20" width="20" /> 
     Angular para construir aplicativos web. 💡🌐</p>
 
